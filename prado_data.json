@@ -1,1 +1,15 @@
-{"cash":0,"trusts":[{"id":1768666128109,"code":"","name":"Innovation AI","balance":1000000,"yields":{"y5":12}}],"updatedAt":1768666146687}
+{
+  "cash": 800000,
+  "trusts": [
+    {
+      "id": 1768666128109,
+      "code": "",
+      "name": "Innovation AI",
+      "balance": 1000000,
+      "yields": {
+        "y5": 12
+      }
+    }
+  ],
+  "updatedAt": 1768666215206
+}
