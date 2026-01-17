@@ -5,7 +5,7 @@
       "id": 1768666128109,
       "code": "",
       "name": "Innovation AI",
-      "balance": 1000000,
+      "balance": 1100000,
       "yields": {
         "y5": 10
       }
@@ -20,5 +20,5 @@
       }
     }
   ],
-  "updatedAt": 1768668968660
+  "updatedAt": 1768669142677
 }
