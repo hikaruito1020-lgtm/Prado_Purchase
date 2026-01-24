@@ -11,6 +11,10 @@
       }
     }
   ],
-  "updatedAt": 1769182501622,
-  "goalAmount": 4500000
+  "updatedAt": 1769263503607,
+  "goalAmount": 4500000,
+  "loanAmount": 4500000,
+  "loanRate": 0.0275,
+  "loanYears": 10,
+  "loanProvider": "千葉銀行"
 }
