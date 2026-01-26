@@ -9,11 +9,11 @@
       "yields": {
         "y1": 23.59,
         "y3": 48.88,
-        "y5": 15
+        "y5": 27.31
       }
     }
   ],
-  "updatedAt": 1769439140527,
+  "updatedAt": 1769439143924,
   "goalAmount": 3500000,
   "loanAmount": 3000000,
   "loanRate": 0.0275,
