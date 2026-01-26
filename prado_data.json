@@ -8,12 +8,12 @@
       "balance": 1168009,
       "yields": {
         "y1": 15.66,
-        "y3": 0,
+        "y3": 29.9,
         "y5": 15
       }
     }
   ],
-  "updatedAt": 1769439096570,
+  "updatedAt": 1769439106354,
   "goalAmount": 3500000,
   "loanAmount": 3000000,
   "loanRate": 0.0275,
