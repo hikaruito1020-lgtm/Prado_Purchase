@@ -13,9 +13,9 @@
       }
     }
   ],
-  "updatedAt": 1769439617715,
+  "updatedAt": 1769439679225,
   "goalAmount": 4500000,
-  "loanAmount": 3000000,
+  "loanAmount": 4500000,
   "loanRate": 0.0275,
   "loanYears": 10,
   "loanProvider": "Chiba Bank"
