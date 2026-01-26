@@ -7,13 +7,13 @@
       "name": "Innovation AI",
       "balance": 1168009,
       "yields": {
-        "y1": 15.66,
+        "y1": 23.59,
         "y3": 29.9,
         "y5": 15
       }
     }
   ],
-  "updatedAt": 1769439127337,
+  "updatedAt": 1769439130770,
   "goalAmount": 3500000,
   "loanAmount": 3000000,
   "loanRate": 0.0275,
