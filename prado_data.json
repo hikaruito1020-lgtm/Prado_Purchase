@@ -1,5 +1,5 @@
 {
-  "cash": 873600,
+  "cash": 835200,
   "trusts": [
     {
       "id": 1768666128109,
@@ -13,7 +13,7 @@
       }
     }
   ],
-  "updatedAt": 1770467976225,
+  "updatedAt": 1771155185095,
   "goalAmount": 4500000,
   "loanAmount": 4500000,
   "loanRate": 0.0275,
